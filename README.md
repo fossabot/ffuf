@@ -24,6 +24,7 @@ The only dependency of ffuf is Go 1.11. No dependencies outside of Go standard l
 ### Typical directory discovery
 
 [![asciicast](https://asciinema.org/a/211350.png)](https://asciinema.org/a/211350)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fintrigueio%2Fffuf.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fintrigueio%2Fffuf?ref=badge_shield)
 
 By using the FUZZ keyword at the end of URL (`-u`):
 
@@ -193,3 +194,6 @@ for different workflows and usage scenarios.
 ## License
 
 ffuf is released under MIT license. See [LICENSE](https://github.com/ffuf/ffuf/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fintrigueio%2Fffuf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fintrigueio%2Fffuf?ref=badge_large)
